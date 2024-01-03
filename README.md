@@ -1,2 +1,2 @@
-# CSDL
-Cơ sở dữ liệu
+# CSLT
+Cơ sở lập trình
